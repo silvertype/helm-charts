@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  kafka-connect-ui:
+  - apiVersion: v1
+    appVersion: 0.9.7
+    created: "2021-01-26T17:19:03.793113+09:00"
+    description: Helm for Landoop/kafka-connect-ui
+    digest: d21bff08135502aef3ac069a9a5aa82fe8eb468d1a46980abb9219bf26db9713
+    home: https://github.com/Landoop/kafka-connect-ui
+    keywords:
+    - kafka
+    - kafka-connect
+    - kafka-connect-ui
+    maintainers:
+    - email: cgiraldo@gradiant.org
+      name: cgiraldo
+    name: kafka-connect-ui
+    sources:
+    - https://github.com/gradiant/charts
+    - https://github.com/astrobounce/helm-kafka-connect-ui
+    urls:
+    - kafka-connect-ui-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-26T17:19:03.792013+09:00"
